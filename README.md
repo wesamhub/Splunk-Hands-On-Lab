@@ -106,15 +106,15 @@ The Universal Forwarder was installed using the Windows GUI wizard with the foll
 
 
 * inputs (left blank for manual configuration).
-* 
+ 
   <img width="249" height="195" alt="image" src="https://github.com/user-attachments/assets/f270d81c-cd35-4aea-9023-6d2cb5fd3761" />
 
 * Created admin credentials (`socadmin`).
-* 
+ 
   <img width="247" height="193" alt="image" src="https://github.com/user-attachments/assets/470b0ea8-361b-4971-a389-53b33e66c7b9" />
 
 * Bypassed the Deployment Server step (left blank for manual configuration).
-* 
+ 
   <img width="248" height="194" alt="image" src="https://github.com/user-attachments/assets/b5821504-fed9-4afb-83a9-484d91d7dc62" />
 
 
