@@ -1,5 +1,3 @@
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/ee0f0878-70f0-4412-9ca0-7dcf198cf5ce" />
-
 # Splunk SIEM Architecture & Endpoint Telemetry Forwarding Lab
 
 ## Overview
