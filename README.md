@@ -14,7 +14,7 @@ This lab simulates a standard Blue Team operations environment, ensuring high-fi
 * **Data Sources:** Windows Event Logs (Application, Security, System) and Sysmon Operational logs.
 
   
-
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/67a5aa26-9f08-4313-8fda-5daadfafdc7d" />
 
 ---
 
