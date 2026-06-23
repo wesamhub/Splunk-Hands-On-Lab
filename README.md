@@ -197,12 +197,10 @@ index="win_log" | stats count by host, sourcetype
 **Results Verified:**
 The search successfully returned active event counts from the host `DESKTOP-HUZN3I1`, categorized by the following sourcetypes:
 
-* `XmlWinEventLog:Application`
-* `XmlWinEventLog:Security`
-* `XmlWinEventLog:System`
+* `WinEventLog:Application`
+* `WinEventLog:Security`
+* `WinEventLog:System`
 * `XmlWinEventLog:Microsoft-Windows-Sysmon/Operational`
 
   <img width="975" height="544" alt="image" src="https://github.com/user-attachments/assets/97058757-32e7-4397-86a4-bdaa01787298" />
 
-
-The presence of these logs confirms the successful architecture and deployment of the log aggregation pipeline, establishing a robust foundation for building SOC correlation rules and threat hunting dashboards.
