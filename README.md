@@ -97,7 +97,8 @@ The Splunk Universal Forwarder acts as the lightweight agent responsible for sec
 
 The `.msi` installer was fetched directly via PowerShell using `wget`.
 
-<img width="942" height="544" alt="image" src="https://github.com/user-attachments/assets/0bbd0009-56d5-4939-9c67-1cbccc9971a8" />
+<img width="906" height="510" alt="image" src="https://github.com/user-attachments/assets/6172efe9-810c-454a-a669-a75c5a913a25" />
+
 
 
 ### 2. Installation Steps
